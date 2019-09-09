@@ -7,8 +7,10 @@ RecyclerView as its name suggests recycles Views once they get out of scope (scr
 in a staggered grid, you can have different sized elements whereas in a normal grid, aal the elements have the same size.
 
 ### What is the purpose of logcat?
+log what you need
 
 ### What kind of gestures are available?
+swipen, longtap
 
 ### What was the predecessor of the recyclerview?
 gridview and listview
@@ -17,4 +19,5 @@ gridview and listview
 You can have action in you Snackbar but not in your Toast
 
 ### What is the purpose of the existence of “optionals” in the Kotlin language?
+Prevention of getting the NullPointerException
 
