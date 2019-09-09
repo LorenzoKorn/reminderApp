@@ -1,6 +1,7 @@
 # Reminder app
 
-### Explore this app: https://github.com/marcellis/demorecyclerview (in Java) and explain why recyclerview is called “recycler” RecyclerView as its name suggests recycles Views once they get out of scope (screen) with the help of ViewHolder pattern. It just changes the contect???
+### Explore this app: https://github.com/marcellis/demorecyclerview (in Java) and explain why recyclerview is called “recycler” 
+RecyclerView as its name suggests recycles Views once they get out of scope (screen) with the help of ViewHolder pattern. It just changes the contect???
 
 ### What is the difference of a staggered grid comparing to a normal grid?
 in a staggered grid, you can have different sized elements whereas in a normal grid, aal the elements have the same size.
