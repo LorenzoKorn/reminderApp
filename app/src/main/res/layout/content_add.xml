@@ -20,14 +20,14 @@
             android:id="@+id/etAddReminder"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="activity" />
+            android:hint="@string/reminder_hint" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:text="Add your reminder"
+        android:text="@string/add_reminder"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
