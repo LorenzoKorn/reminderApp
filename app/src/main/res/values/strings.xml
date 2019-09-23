@@ -2,4 +2,6 @@
     <string name="app_name">Reminder</string>
     <string name="action_settings">Settings</string>
     <string name="give_reminder">Give reminder</string>
+    <string name="reminder_hint">Activity</string>
+    <string name="title_activity_content_add">content_add</string>
 </resources>
